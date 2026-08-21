@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bwiens\\Desktop\\HelloWorld\\Startprojekte\\C#Startprojekt\\HelloWorld\\",
+  "WorkspaceRootPath": "C:\\Users\\bwiens\\Desktop\\Rechner\\HelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{860A0E18-F745-4106-8D91-28DAE0D2753C}|HelloWorld\\HelloWorld.csproj|c:\\users\\bwiens\\desktop\\helloworld\\startprojekte\\c#startprojekt\\helloworld\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{860A0E18-F745-4106-8D91-28DAE0D2753C}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88F19D9E-CF60-46B5-B8B1-03E9D8FCD1ED}|HelloWorld\\HelloWorld.csproj|c:\\users\\bwiens\\desktop\\rechner\\helloworld\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F19D9E-CF60-46B5-B8B1-03E9D8FCD1ED}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,22 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bwiens\\Desktop\\HelloWorld\\Startprojekte\\C#Startprojekt\\HelloWorld\\HelloWorld\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\bwiens\\Desktop\\Rechner\\HelloWorld\\HelloWorld\\Program.cs",
               "RelativeDocumentMoniker": "HelloWorld\\Program.cs",
-              "ToolTip": "C:\\Users\\bwiens\\Desktop\\HelloWorld\\Startprojekte\\C#Startprojekt\\HelloWorld\\HelloWorld\\Program.cs",
+              "ToolTip": "C:\\Users\\bwiens\\Desktop\\Rechner\\HelloWorld\\HelloWorld\\Program.cs",
               "RelativeToolTip": "HelloWorld\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T06:01:28.043Z",
+              "WhenOpened": "2026-08-21T07:08:07.394Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
